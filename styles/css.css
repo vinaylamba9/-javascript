@@ -20,8 +20,22 @@ li a {
 h2{
     color: #171515;
 }
+#signin{
+    float: right;
+}
 li a:hover {
     background-color: #111111;
+}
+img: hover{
+    width: 200px;
+    height: 100px;
+}
+#logo{
+    padding: 0px;
+    margin: 0px;
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
 }
 .footer {
     position: fixed;
